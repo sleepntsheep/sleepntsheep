@@ -1,19 +1,19 @@
 ## Hi there 👋
 ***
-### I am ...
+## I am ...
 - 🐑 sleepysheeep
 
-### Contact ...
+## Contact ...
 ![discord](https://img.shields.io/badge/discord-536dfe?style=for-the-badge&logoColor=white&logo=discord)
 <a href="mailto:<nowiki>sleepysheeep@protonmail.com" rel="some text">![mail](https://img.shields.io/badge/protonmail-282B34?style=for-the-badge&logoColor=white&logo=protonmail)</a>
 
-### I am interested in ...
+## I am interested in ...
 ![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
 ![css](https://img.shields.io/badge/CSS3-ffeb3b?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
 ![embedded](https://img.shields.io/badge/embedded-263238?style=for-the-badge&logo=arduino&logoColor=white)
 
-### I use ..
+## I use ..
 
 #### IDE
 ![vscode](https://img.shields.io/badge/vscode-2196f3?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
@@ -25,6 +25,6 @@
 ![ipados](https://img.shields.io/badge/Ipad%20os-90a4ae?style=for-the-badge&logoColor=white&logo=apple)
 
 
-### My stat
+## My stat
 ![stat1](https://github-readme-stats.vercel.app/api?username=sleepysheeep&show_icons=true)
 ![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepysheeep)
