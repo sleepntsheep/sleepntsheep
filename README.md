@@ -4,7 +4,7 @@
 - 🐑 sleepysheeep
 
 ### Contact ...
-- ✉️ Discord : sleepysheeep#0001
+![discord](https://img.shields.io/badge/sleepysheeep#0001-536dfe?style=for-the-badge&logoColor=white&logo=discord)
 
 ### I am interested in ...
 ![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
@@ -25,4 +25,4 @@
 
 
 ### My stat
-
+![stat1](https://github-readme-stats.vercel.app/api?username=sleepysheeep&show_icons=true)
