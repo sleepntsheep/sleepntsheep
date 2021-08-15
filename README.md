@@ -5,7 +5,6 @@
 
 ## Contact ...
 ![discord](https://img.shields.io/badge/discord-536dfe?style=for-the-badge&logoColor=white&logo=discord)
-<a href="mailto:<nowiki>sleepysheeep@protonmail.com" rel="some text">![mail](https://img.shields.io/badge/protonmail-282B34?style=for-the-badge&logoColor=white&logo=protonmail)</a>
 
 ## I am interested in ...
 ![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
