@@ -5,6 +5,7 @@
 
 ### Contact ...
 ![discord](https://img.shields.io/badge/discord-536dfe?style=for-the-badge&logoColor=white&logo=discord)
+[![mail](https://img.shields.io/badge/protonmail-282B34?style=for-the-badge&logoColor=white&logo=protonmail)](mailto:<nowiki>agentavery@sample.com?subject="subject text")
 
 ### I am interested in ...
 ![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
@@ -27,4 +28,3 @@
 ### My stat
 ![stat1](https://github-readme-stats.vercel.app/api?username=sleepysheeep&show_icons=true)
 ![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepysheeep)
-
