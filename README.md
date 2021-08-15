@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+***
+### I am ...
+- 🐑 sleepysheeep
 
-<!--
-**sleepysheeep/sleepysheeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact ...
+- ✉️ Discord : sleepysheeep#0001
 
-Here are some ideas to get you started:
+### I am interested in ...
+![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
+![css](https://img.shields.io/badge/CSS3-ffeb3b?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
+![embedded](https://img.shields.io/badge/embedded-263238?style=for-the-badge&logo=arduino&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I use ..
+
+#### IDE
+![vscode](https://img.shields.io/badge/vscode-2196f3?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
+
+#### OS
+![windows](https://img.shields.io/badge/Windows-37474f?style=for-the-badge&logoColor=white&logo=windows)
+![archlinux](https://img.shields.io/badge/Arch%20Linux-304ffe?style=for-the-badge&logoColor=white&logo=archlinux)
+![android](https://img.shields.io/badge/Android-689f38?style=for-the-badge&logo=android&logoColor=white)
+![ipados](https://img.shields.io/badge/Ipad%20os-90a4ae?style=for-the-badge&logoColor=white&logo=apple)
+
+
+### My stat
+
