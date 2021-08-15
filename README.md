@@ -4,7 +4,7 @@
 - 🐑 sleepysheeep
 
 ### Contact ...
-![discord](https://img.shields.io/badge/sleepysheeep#0001-536dfe?style=for-the-badge&logoColor=white&logo=discord)
+![discord](https://img.shields.io/badge/discord-536dfe?style=for-the-badge&logoColor=white&logo=discord)
 
 ### I am interested in ...
 ![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
