@@ -29,3 +29,6 @@
 ## My stat
 ![stat1](https://github-readme-stats.vercel.app/api?username=sleepysheeep&show_icons=true)
 ![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepysheeep)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sleepysheeep)
