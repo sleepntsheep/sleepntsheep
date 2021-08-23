@@ -27,7 +27,7 @@
 ![android](https://img.shields.io/badge/Android-689f38?style=for-the-badge&logo=android&logoColor=white)
 ![ipados](https://img.shields.io/badge/Ipad%20os-90a4ae?style=for-the-badge&logoColor=white&logo=apple)
 
-![## You can see my blog here..](https://sleepntsheep.github.io)
+[## You can see my blog here..](https://sleepntsheep.github.io)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sleepntsheep)
