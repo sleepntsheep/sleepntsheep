@@ -27,10 +27,7 @@
 ![android](https://img.shields.io/badge/Android-689f38?style=for-the-badge&logo=android&logoColor=white)
 ![ipados](https://img.shields.io/badge/Ipad%20os-90a4ae?style=for-the-badge&logoColor=white&logo=apple)
 
-
-## My stat
-![stat1](https://github-readme-stats.vercel.app/api?username=sleepntsheep&show_icons=true)
-#![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepntsheep)
+![## You can see my blog here..](https://sleepntsheep.github.io)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sleepntsheep)
