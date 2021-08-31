@@ -29,6 +29,6 @@
 
 ## [You can see my blog here..](https://sleepntsheep.github.io)
 
-## [Am I awake??](https://api.sleepntsheep.tk:88/wake)
+## [Am I awake??](http://api.sleepntsheep.tk:88/wake)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sleepntsheep)
