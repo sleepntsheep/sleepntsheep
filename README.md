@@ -28,6 +28,6 @@
 ![ipados](https://img.shields.io/badge/Ipad%20os-90a4ae?style=for-the-badge&logoColor=white&logo=apple)
 
 ## [You can see my blog here..](https://sleepntsheep.github.io)
-## [Check if i am awake](http://34.83.15.129/wake)
+## [Check if i am awake](http://api.papangkorn.com/wake)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sleepntsheep)
