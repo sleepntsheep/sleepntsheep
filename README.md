@@ -7,7 +7,7 @@
 
 ## Contact ...
 ![discord](https://img.shields.io/badge/sleepntsheep%206448-536dfe?style=for-the-badge&logoColor=white&logo=discord)
-<a href="mailto:<nowiki>contact@papangkorn.com" rel="some text">![mail](https://img.shields.io/badge/email-282B34?style=for-the-badge&logoColor=white&logo=mail)</a>
+<a href="mailto:<nowiki>contact@papangkorn.com" rel="some text">![mail](https://img.shields.io/badge/email-282B34?style=for-the-badge&logoColor=white&logo=gmail)</a>
 [![reddit](https://img.shields.io/badge/reddit-ff3333?style=for-the-badge&logoColor=white&logo=reddit)](https://www.reddit.com/user/sleepypaam)
 
 ## I am interested in ...
