@@ -8,8 +8,8 @@
 ## Contact ...
 ![discord](https://img.shields.io/badge/sleepntsheep%206448-536dfe?style=for-the-badge&logoColor=white&logo=discord)
 <a href="mailto:<nowiki>contact@papangkorn.com" rel="some text">![mail](https://img.shields.io/badge/email-282B34?style=for-the-badge&logoColor=white&logo=gmail)</a>
-[![reddit](https://img.shields.io/badge/reddit-ff3333?style=for-the-badge&logoColor=white&logo=reddit)](https://www.reddit.com/user/sleepypaam)
-
+<!--[![reddit](https://img.shields.io/badge/reddit-ff3333?style=for-the-badge&logoColor=white&logo=reddit)](https://www.reddit.com/user/wee)
+-->
 ## I am interested in ...
 ![python](https://img.shields.io/badge/python-ab47bc?style=for-the-badge&logoColor=white&logo=python)
 ![css](https://img.shields.io/badge/CSS3-ffeb3b?style=for-the-badge&logo=css3&logoColor=white)
