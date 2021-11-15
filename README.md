@@ -21,7 +21,7 @@
 #### IDE
 ![vim](https://img.shields.io/badge/vim😎-2196f3?style=for-the-badge&logoColor=white&logo=vim)
 
-![vscode](https://img.shields.io/badge/vscode-2196f3?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
+![vscode](https://img.shields.io/badge/vscode-2196f3?style=for-the-badge&logoColor=white&logo=visual%20studio%20code) -- not anymore
 
 #### OS
 ![windows](https://img.shields.io/badge/Windows-37474f?style=for-the-badge&logoColor=white&logo=windows)
