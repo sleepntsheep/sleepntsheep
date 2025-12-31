@@ -1,7 +1,5 @@
-## Hi there 👋🗿
+## Haiiiii
 
-I am sleepntsheep, i mainly code in C, C++, python
+I am sleepntsheep, a competitive programmer, a developer, a math enjoyer, reader, and more.
 
-I can also do svelte, javascript, node.js
-
-Vim user btw
+See my personal website.
